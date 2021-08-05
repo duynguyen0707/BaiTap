@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Exercise10 {
 //    10.Nhập vào 2 số nguyên.
-//    Tính min và max của hai số đ===ó.
+//    Tính min và max của hai số đó.
     public static void main (String[] args){
         int a;
         int b;
